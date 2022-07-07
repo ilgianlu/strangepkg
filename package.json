@@ -1,0 +1,25 @@
+{
+  "name": "@ilgianlu/strangepkg",
+  "version": "1.0.0",
+  "description": "a package so straneg to delete immediately",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilgianlu/strangepkg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilgianlu/strangepkg/issues"
+  },
+  "homepage": "https://github.com/ilgianlu/strangepkg#readme",
+  "dependencies": {
+    "config": "^3.3.7"
+  },
+  "devDependencies": {
+    "vitest": "^0.17.0"
+  }
+}
