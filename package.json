@@ -1,6 +1,6 @@
 {
   "name": "@ilgianlu/strangepkg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a package so straneg to delete immediately",
   "main": "index.js",
   "scripts": {
